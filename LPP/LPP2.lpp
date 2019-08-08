@@ -2,8 +2,8 @@ Real A,B,C
 inicio
 Escriba "Suma de dos numeros"
 llamar nueva_linea
-A<-15
-B<-10
+A<-18
+B<-9
 C<-A+B
 llamar nueva_linea
 Escriba "La suma es:  "

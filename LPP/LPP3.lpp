@@ -2,10 +2,10 @@ Real A,B,C
 inicio
 Escriba "Suma de dos numeros ingresados por teclado"
 llamar nueva_linea
-Escriba "Indique el primer numero:  "
+Escriba "primer numero:  "
 Lea A
 llamar nueva_linea 
-Escriba "Inidque el segundo numero:   "
+Escriba "segundo numero:   "
 Lea B
 C<-A+B
 llamar nueva_linea
