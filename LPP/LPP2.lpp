@@ -2,7 +2,7 @@ Real A,B,C
 inicio
 Escriba "Suma de dos numeros"
 llamar nueva_linea
-A<-18
+A<-2
 B<-9
 C<-A+B
 llamar nueva_linea
