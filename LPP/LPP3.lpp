@@ -5,7 +5,7 @@ llamar nueva_linea
 Escriba "primer numero:  "
 Lea A
 llamar nueva_linea 
-Escriba "segundo numero:   "
+Escriba "somos un bien grupo:   "
 Lea B
 C<-A+B
 llamar nueva_linea
