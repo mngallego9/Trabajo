@@ -8,7 +8,7 @@ si (cedula>90) entonces
 escriba "ingrese a cine para ancianos"
 sino 
 si ((cedula>70) y (cedula<=90)) entonces
-escriba "ingrese a cine para viejos"
+escriba "aja y entonces"
 sino
 si ((cedula>60) y (cedula<=70)) entonces
 escriba "ingrese a cine tercera edad"
