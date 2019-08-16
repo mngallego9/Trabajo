@@ -11,3 +11,4 @@ C<-A+B
 llamar nueva_linea
 Escriba "La suma de  " ,A, " mas " , B, " es:  ", C
 fin
+// ingresar cada ejercicio con el nombre sin espacios
